@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="dhnetsdk">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/libs/dhnetsdk.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/libs/dhnetsdk.jar!/" />
+    </SOURCES>
+  </library>
+</component>

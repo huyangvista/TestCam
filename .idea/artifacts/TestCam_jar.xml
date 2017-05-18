@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="TestCam:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/TestCam_jar</output-path>
+    <root id="archive" name="TestCam.jar">
+      <element id="module-output" name="TestCam" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/libs/jna-3.0.9.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
